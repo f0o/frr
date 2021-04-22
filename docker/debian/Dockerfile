@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:buster-20210329-slim
 MAINTAINER Rob Gil (rob@rem5.com)
 
 ENV DEBIAN_FRONTEND noninteractive
